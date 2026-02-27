@@ -1,33 +1,46 @@
-🌟 Hi there, I'm Shanvi Khana!
-🚀 Web Developer | 💻 IT Student | 🌱 Learning DSA | 🏆 Hackathon Participant
+<h1 align="center">Hi 👋 I'm <b>Shanvi Bajpai</b></h1>
 
-I’m a 2nd-year IT student at Guru Nanak Dev Engineering College, Ludhiana.
-I build clean, responsive web apps and I’m preparing for GSoC + internships.
+<p align="center">
+  💻 IT Student | Web Developer | Open Source Enthusiast
+</p>
 
-💡 Tech Stack I Use
+---
 
-Frontend: HTML, CSS, JavaScript, React
+## 🔧 Tech Stack
+- **Frontend:** HTML | CSS | JavaScript | Bootstrap
+- **Backend:** Node.js | Express
+- **Database:** MongoDB | MySQL
+- **Languages:** C++ | Java
+- **Tools:** Git | GitHub | VS Code
 
-Backend: Node.js, Express
+---
 
-Database: MySQL, MongoDB
+## 🌱 What I'm Learning
+- MERN Stack development
+- Data Structures & Algorithms (DSA)
+- Building real-world web apps
+- Preparing for internships & GSoC
 
-Languages: C++, Java
+---
 
-Tools: Git, GitHub, VS Code, Postman
+## 🔗 Connect with Me
+📫 Email: **shanvi.support@gmail.com**  
+🔗 GitHub: https://github.com/Shanvi143  
+🔗 LinkedIn: *(add your LinkedIn link here)*
 
-📌 Current Focus
+---
 
-Improving DSA in C++
+## 📌 My Projects
+Here are some projects I’ve built:
 
-Building real projects
+- **Portfolio Website** – A responsive personal portfolio  
+- **Weather App** – Shows weather using public API  
+- **To-Do App** – Task manager with add/remove feature  
 
-Preparing for GSoC 2026
+*(I’ll help you make full code/README for these if you want)*
 
-Increasing GitHub activity
+---
 
-Joining hackathons & open-source
-
-📫 Contact me
-
-📧 Email: shanvi.support@gmail.com
+## 📫 Let’s Collaborate!
+I love learning, building & contributing to open source.  
+Feel free to connect with me on LinkedIn 📌
