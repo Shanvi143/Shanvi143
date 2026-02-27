@@ -37,7 +37,6 @@ Here are some projects I’ve built:
 - **Weather App** – Shows weather using public API  
 - **To-Do App** – Task manager with add/remove feature  
 
-*(I’ll help you make full code/README for these if you want)*
 
 ---
 
