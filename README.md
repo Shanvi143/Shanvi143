@@ -26,7 +26,7 @@
 ## 🔗 Connect with Me
 📫 Email: **shanvi.support@gmail.com**  
 🔗 GitHub: https://github.com/Shanvi143  
-🔗 LinkedIn: *(add your LinkedIn link here)*
+🔗 LinkedIn: *(https://www.linkedin.com/in/)*
 
 ---
 
